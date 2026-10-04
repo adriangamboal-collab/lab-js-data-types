@@ -73,4 +73,4 @@ const expression6 = !(a || b); //false
 
 const expression7 = a && a; //true
 
-console.log(expression)
+console.log(expression1)
