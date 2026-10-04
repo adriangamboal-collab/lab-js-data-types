@@ -7,8 +7,8 @@ const s3 = "Ted";
 const s4 = "bread";
 const s5 = "and";
 
-const Tongue= s1+" "+s2+ " "+s3+" "+ s4+ " "+ s5 + " "+s3+" "+s2+" "+s1+" "+s4
-console.log(Tongue)
+const Tonguetwister= s1+" "+s2+ " "+s3+" "+ s4+ " "+ s5 + " "+s3+" "+s2+" "+s1+" "+s4
+console.log(Tonguetwister)
 
 
 
