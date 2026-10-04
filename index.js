@@ -44,6 +44,11 @@ console.log(tiptotal)
     Iteration 2.2 | Generate Random Number
 *******************************************/
 
+const random =Math.floor(Math.random() * 10) + 1;
+
+console.log(random)
+
+ 
 // Generate a random integer between 1 and 10 (inclusive)
 
 
